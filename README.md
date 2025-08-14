@@ -1,4 +1,3 @@
-# HotelManagement
 # Hotel Management System (Python)
 
 ## 📌 Overview
